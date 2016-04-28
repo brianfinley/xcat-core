@@ -161,6 +161,6 @@ confluent-web is provided in a subdirectory under the confluent project `conflue
 
 Download the content of that directory to ``/var/www/html/confluent`` and point your browser to::
 
-    http://<server ip>/confluent/consoles.html
+    http://<server ip>/confluent
 
 
